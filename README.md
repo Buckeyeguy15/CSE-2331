@@ -1,1 +1,3 @@
-# CSE-2331
+# CSE-2331: Foundations II
+
+Taken: SU20
